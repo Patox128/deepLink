@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "cl.xintec.deep_link_flutter",
+      "sha256_cert_fingerprints": [
+        "97:7B:76:BE:95:73:08:CE:FB:4A:55:03:3E:E9:7B:DF:0B:F6:54:5A:39:9E:04:CF:DD:C2:B8:A8:87:BA:44:A6"
+      ]
+    }
+  }
+]
